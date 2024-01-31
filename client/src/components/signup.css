@@ -1,0 +1,52 @@
+.rigistercard{
+    width: 65%;
+   margin-left: 17%;
+    margin-top: 5%;
+    border-radius: 15px;
+    background: white;
+    font-family: Cambriaw;
+    box-shadow: 0px 0px 30px 0px #00000026;
+}
+h1{
+    margin-left: 40%;
+    padding-top: 3%
+}
+.signupcard{
+    margin-left: 35%;
+    
+}
+.signupcard button{
+    color:black;
+    background: white;
+    margin: 5%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px 0px #00000026;
+    border: 1px;
+}
+.formcard{
+     padding-left: 25%;
+}
+.formcard button{
+    background: #A9BCFF;
+    width: 40%;
+    height: 30px;
+border-radius: 5px;
+margin-left: 10%;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+label{
+    width: 30%;
+    display: inline-block;
+    margin: 0.5cm;
+
+}
+
+input{
+    background: #F4F4F4;
+   border: none;
+   width: 35%;
+}
+
+
+

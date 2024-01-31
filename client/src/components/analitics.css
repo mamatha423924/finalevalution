@@ -1,0 +1,46 @@
+.dashboards{
+    width: 80%;
+    float: right;
+    background: #ece8e8;
+    height: 100vh;
+  
+    
+}
+
+.tablecard{
+   
+    z-index: 1;
+    opacity: .7;
+}
+th{
+    background: #5076FF;
+    color: white;
+    
+}
+table{
+    position: absolute;
+    left: 60%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+    width: 60%;
+    height: 250px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    text-align: center;
+    
+}
+tr:nth-child(even){
+    background: #B3C4FF;
+
+}
+.alert{
+    color:green;
+    float: right;
+    margin-top: 1em;
+    margin-right: 3em;
+}
+.msgbutton{
+    border: none;
+    margin-top: 10%;
+    background: none;
+}

@@ -1,0 +1,37 @@
+.question-analytics-contianer{
+    width: 80%;
+    float: right;
+    background: #ece8e8;
+   
+    display: block;
+}
+
+.data{
+float: right;
+margin-top: 2em;
+margin-right: 3em;
+}
+.question-box{
+    width: 1087px;
+    height: 832px;
+    left: 193px;
+    
+}
+.title{
+margin-left: 2px;
+
+}
+
+.d-flex{
+display: flex;
+flex-direction: row;
+}
+.question-list-box{
+    width: 245px;
+height: 90px;
+top: 250px;
+left: 281px;
+border-radius: 5px;
+margin-left: 2em;
+background: #FFFFFF;
+}
